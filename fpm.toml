@@ -1,6 +1,6 @@
 name = "aof25"
 version = "0.1.0"
-license = "license"
+license = "MIT"
 author = "Chris Dawes"
 maintainer = "cmsd2@cantab.net"
 copyright = "Copyright 2026, Chris Dawes"
